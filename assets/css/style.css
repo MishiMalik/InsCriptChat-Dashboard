@@ -1090,3 +1090,9 @@ thead {
        
     }
 }
+.profile-dp img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+
+}
